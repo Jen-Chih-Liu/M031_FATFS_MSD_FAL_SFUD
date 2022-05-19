@@ -1,0 +1,13 @@
+USBD_Mass_Storage_SPIFlash
+Program Size: Code=9240 RO-data=412 RW-data=384 ZI-data=37680  
+
+FAL_SFUP_MSD
+Program Size: Code=22368 RO-data=3608 RW-data=592 ZI-data=38200  
+
+SPI_Flash_FATFS
+Program Size: Code=11480 RO-data=1996 RW-data=56 ZI-data=48216  
+
+FAL_SFUP_FATFS
+Program Size: Code=27808 RO-data=5188 RW-data=244 ZI-data=40540  
+
+spend 13k in fal
